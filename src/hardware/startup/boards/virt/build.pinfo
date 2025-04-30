@@ -1,0 +1,8 @@
+STATE=Experimental
+INSTALLDIR=armle/boot/build/
+INSTALLNAME=virt.build
+NAME=build
+USER=User
+HOST=WIN7ELECTRONIC
+DATE=2021/12/10-19:17:08-RTZ
+DESCRIPTION=Example build file for startup-virt
